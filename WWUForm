@@ -37,53 +37,53 @@
 <h2>FERPA Form</h2>
 <br>
 <h3>Student Information</h3>
-<div class="form-group"><label for="name">First Name:&nbsp;</label> <input type="text" class="form-control" name="Name" placeholder="Enter First Name" required=""></div>
-<div class="form-group"><label for="name">Middle Name:&nbsp;</label> <input type="text" class="form-control" name="Middle Name" placeholder="Enter Middle Name"></div>
-<div class="form-group"><label for="name">Last Name:&nbsp;</label> <input type="text" class="form-control" name="Last Name" placeholder="Enter Last Name" required=""></div>
-<div class="form-outline"><label class="form-label" for="typeNumber">ID Number:&nbsp;</label><input type="number" id="typeNumber" class="form-control" name="ID Number" placeholder="12345" required=""></div>
+<div class="form-group"><label for="name">First Name:&nbsp;</label> <input type="text" class="form-control" name="First&nbsp;Name" placeholder="Enter First Name" required=""></div>
+<div class="form-group"><label for="name">Middle Name:&nbsp;</label> <input type="text" class="form-control" name="Middle&nbsp;Name" placeholder="Enter Middle Name"></div>
+<div class="form-group"><label for="name">Last Name:&nbsp;</label> <input type="text" class="form-control" name="Last&nbsp;Name" placeholder="Enter Last Name" required=""></div>
+<div class="form-outline"><label class="form-label" for="typeNumber">ID Number:&nbsp;</label><input type="number" id="typeNumber" class="form-control" name="ID&nbsp;Number" placeholder="12345" required=""></div>
 <br>
 <h3>Financial and Billing Information Release</h3>
 Include the name and relationship of up to four people you'd like to grant access to your <strong>Financial Information</strong>.&nbsp;<br><br><label for="name">Financial Person 1:&nbsp; </label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 1 Name" name="Financial Person 1"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 1 Relationship" name="Financial Person 1 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Name" name="Financial&nbsp;Person&nbsp;1"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Relationship" name="Financial&nbsp;Person&nbsp;1&nbsp;Relationship"></div>
 </div>
 <br><label for="name">Financial Person 2:&nbsp; </label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 2 Name" name="Financial Person 2"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 2 Relationship" name="Financial Person 2 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Name" name="Financial&nbsp;Person&nbsp;2"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Relationship" name="Financial&nbsp;Person&nbsp;2&nbsp;Relationship"></div>
 </div>
 <br><label for="name">Financial Person 3:&nbsp; </label>
 <div class="row">
 <div class="col"><input type="text" class="form-control" placeholder="Person 3 Name" name="Financial Person 3"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 3 Relationship" name="Financial Person 3 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Relationship" name="Financial&nbsp;Person&nbsp;3&nbsp;Relationship"></div>
 </div>
 <br><label for="name">Financial Person 4:&nbsp; </label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 4 Name" name="Financial Person 4"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 4 Relationship" name="Financial Person 4 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Name" name="Financial&nbsp;Person&nbsp;4"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Relationship" name="Financial&nbsp;Person&nbsp;4&nbsp;Relationship"></div>
 </div>
 <br>
 <h3>Academic Information Release</h3>
-Include the name and relationship of up to four people you'd like to grant access to your <strong>Academic Information</strong>.&nbsp;<br><br><label for="name">Academic Person 1:&nbsp; </label>
+Include the name and relationship of up to four people you'd like to grant access to your <strong>Academic Information</strong>.&nbsp;<br><br><label for="name">Academic Person 1:</label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 1 Name" name="Academic Person 1"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 1 Relationship" name="Academic Person 1 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Name" name="Academic&nbsp;Person&nbsp;1"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Relationship" name="Academic&nbsp;Person&nbsp;1&nbsp;Relationship"></div>
 </div>
-<br><label for="name">Academic Person 2:&nbsp; </label>
+<br><label for="name">Academic Person 2:</label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 2 Name" name="Academic Person 2"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 2 Relationship" name="Academic Person 2 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Name" name="Academic&nbsp;Person&nbsp;2"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Relationship" name="Academic&nbsp;Person&nbsp;2&nbsp;Relationship"></div>
 </div>
-<br><label for="name">Academic Person 3:&nbsp; </label>
+<br><label for="name">Academic Person 3:</label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 3 Name" name="Academic Person 3"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 3 Relationship" name="Academic Person 3 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Name" name="Academic&nbsp;Person&nbsp;3"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Relationship" name="Academic&nbsp;Person&nbsp;3&nbsp;Relationship"></div>
 </div>
-<br><label for="name">Academic Person 4:&nbsp; </label>
+<br><label for="name">Academic Person 4:</label>
 <div class="row">
-<div class="col"><input type="text" class="form-control" placeholder="Person 4 Name" name="Academic Person 4"></div>
-<div class="col"><input type="text" class="form-control" placeholder="Person 4 Relationship" name="Academic Person 4 Relationship"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Name" name="Academic&nbsp;Person&nbsp;4"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Relationship" name="Academic&nbsp;Person&nbsp;4&nbsp;Relationship"></div>
 </div>
 <br><button type="submit" class="btn btn-primary">Submit</button>
 <div class="col-12"><footer>
