@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/css/custom.css">
+
+  <!-- FERPA FORM -->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+   <title>FERPA</title>
+</head><body><div class="container-fluid">
+<div class="col-sm-10 offset-sm-1">
+<h1>FERPA</h1>
+<p>FERPA Stands for the Family Educational Rights and Privacy Act.&nbsp; Below is a video from the U.S. Department of Education highlighting the key points of FERPA.&nbsp;&nbsp;</p>
+<p>Once you have watched the video, please fill out the form below.&nbsp; This form will be emailed to _______, which then will be updated in your profile on who has permission to view/discuss your finances and academics here at William Woods. If you have any questions, don't hesitate to reach out.</p>
+<div class="video-wrapper">
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/nhlDkS8hvMU?wmode=opaque&amp;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-text">
+<p>Direct Link: <a href="https://youtu.be/nhlDkS8hvMU" target="_blank" rel="noopener">Student Privacy 101: FERPA for Parents &amp; Students</a><span class="sr-only">(this link opens in a new window/tab)</span></p>
+</div>
+</div>
+<form role="form" action="https://formsubmit.co/jessica.miller@williamwoods.edu" method="POST">
+<h2>FERPA Form</h2>
+<br>
+<h3>Student Information</h3>
+<div class="form-group"><label for="name">First Name:&nbsp;</label> <input type="text" class="form-control" placeholder="Enter First Name"></div>
+<div class="form-group"><label for="name">Middle Name:&nbsp;</label> <input type="text" class="form-control" placeholder="Enter Middle Name"></div>
+<div class="form-group"><label for="name">Last Name:&nbsp;</label> <input type="text" class="form-control" placeholder="Enter Last Name"></div>
+<div class="form-outline"><label class="form-label" for="typeNumber">ID Number:&nbsp;</label><input type="number" id="typeNumber" class="form-control" placeholder="12345"></div>
+<br>
+<h3>Financial and Billing Information Release</h3>
+Include the name and relationship of up to four people you'd like to grant access to your <strong>Financial Information</strong>.&nbsp;<br><br><label for="name">Financial Person 1:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Relationship"></div>
+</div>
+<br><label for="name">Financial Person 2:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Relationship"></div>
+</div>
+<br><label for="name">Financial Person 3:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Relationship"></div>
+</div>
+<br><label for="name">Financial Person 4:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Relationship"></div>
+</div>
+<br>
+<h3>Academic Information Release</h3>
+Include the name and relationship of up to four people you'd like to grant access to your <strong>Academic Information</strong>.&nbsp;<br><br><label for="name">Academic Person 1:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 1 Relationship"></div>
+</div>
+<br><label for="name">Academic Person 2:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 2 Relationship"></div>
+</div>
+<br><label for="name">Academic Person 3:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 3 Relationship"></div>
+</div>
+<br><label for="name">Academic Person 4:&nbsp; </label>
+<div class="row">
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Name"></div>
+<div class="col"><input type="text" class="form-control" placeholder="Person 4 Relationship"></div>
+</div>
+<br><button type="submit" class="btn btn-primary">Submit</button>
+<div class="col-12"><footer>
+</footer></div>
+</form></div>
+</div>
+<script src="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/thirdpartylib/jquery/jquery-3.3.1.slim.min.js"></script>
+<script src="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/thirdpartylib/popper-js/popper.min.js"></script>
+<script src="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+<!-- Template JavaScript -->
+<script src="/shared/HTML-Template-Library/HTML-Templates-V3/pages/../_assets/js/scripts.min.js"></script>
+</div></body></html>
